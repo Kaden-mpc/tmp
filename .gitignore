@@ -9,3 +9,10 @@ testing_repo2/.git
 testing_repo2/sub_repo3/.git
 testing_repo2/sub_repo3
 testing_repo2
+
+.git
+testing_repo1
+testing_repo2/.git
+testing_repo2/sub_repo3/.git
+testing_repo2/sub_repo3
+testing_repo2
